@@ -1,0 +1,13 @@
+canonical,mt5_name_raw,contract_size,spread_price_units,raw_swap_long,raw_swap_short,swap_mode,swap_mode_name,swap_point,swap_tick_value,swap_tick_size,triple_weekday,swap_long_per_unit_night,swap_short_per_unit_night,notes
+EURUSD,EURUSD,100000,,,,1,POINTS,,,,,,,fill from exporter specs.csv or MT5 Specification on YOUR demo
+GBPUSD,GBPUSD,100000,,,,1,POINTS,,,,,,,fill from exporter specs.csv or MT5 Specification on YOUR demo
+USDJPY,USDJPY,100000,,,,1,POINTS,,,,,,,fill from exporter specs.csv or MT5 Specification on YOUR demo
+AUDUSD,AUDUSD,100000,,,,1,POINTS,,,,,,,fill from exporter specs.csv or MT5 Specification on YOUR demo
+USDCAD,USDCAD,100000,,,,1,POINTS,,,,,,,fill from exporter specs.csv or MT5 Specification on YOUR demo
+XAUUSD,XAUUSD,100,,,,1,POINTS,,,,,,,fill from exporter specs.csv or MT5 Specification on YOUR demo
+XAGUSD,XAGUSD,5000,,,,1,POINTS,,,,,,,fill from exporter specs.csv or MT5 Specification on YOUR demo
+USOIL,US Oil,1,,,,1,POINTS,,,,,,,fill from exporter specs.csv or MT5 Specification on YOUR demo
+UKOIL,UK Brent Oil,1,,,,1,POINTS,,,,,,,fill from exporter specs.csv or MT5 Specification on YOUR demo
+US30,Wall Street 30,,,,,1,POINTS,,,,,,,fill from exporter specs.csv or MT5 Specification on YOUR demo
+US500,US SP 500,,,,,1,POINTS,,,,,,,fill from exporter specs.csv or MT5 Specification on YOUR demo
+USTEC,US Tech 100,,,,,1,POINTS,,,,,,,fill from exporter specs.csv or MT5 Specification on YOUR demo
